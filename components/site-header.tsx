@@ -33,7 +33,7 @@ export function SiteHeader() {
             href="#enroll"
             className="hidden whitespace-nowrap rounded-md bg-primary px-4 py-2.5 text-sm font-bold uppercase tracking-wide text-primary-foreground transition-transform hover:-translate-y-0.5 sm:inline-flex"
           >
-            Enroll Now
+            Join Now
           </a>
           <button
             type="button"

@@ -13,7 +13,7 @@ export function EnrollPlanLink({ plan, className, children }: EnrollPlanLinkProp
     <a
       href={ENROLL_ANCHOR}
       onClick={() => window.dispatchEvent(new CustomEvent(SELECT_PLAN_EVENT, { detail: plan }))}
-      aria-label={`Enroll now in the ${plan} plan`}
+      aria-label={`Join now in the ${plan} plan`}
       className={className}
     >
       {children}
