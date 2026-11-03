@@ -36,7 +36,7 @@ export function FloatingActions() {
           className="flex flex-col items-center justify-center gap-1 bg-primary py-3 text-xs font-bold uppercase text-primary-foreground"
         >
           <UserPlus className="size-5" aria-hidden="true" />
-          Enroll Now
+          Join Now
         </a>
       </div>
     </>

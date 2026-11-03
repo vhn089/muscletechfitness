@@ -4,7 +4,6 @@ import { TrustBar } from '@/components/trust-bar'
 import { WhyUs } from '@/components/why-us'
 import { Facilities } from '@/components/facilities'
 import { Plans } from '@/components/plans'
-import { Trainers } from '@/components/trainers'
 import { Transformations } from '@/components/transformations'
 import { Testimonials } from '@/components/testimonials'
 import { Gallery } from '@/components/gallery'
@@ -67,7 +66,6 @@ export default function Page() {
         <WhyUs />
         <Facilities />
         <Plans />
-        <Trainers />
         <Transformations />
         <Testimonials />
         <Gallery />

@@ -73,7 +73,7 @@ export function Plans() {
                     : 'border border-border hover:border-primary hover:text-primary',
                 )}
               >
-                Enroll Now
+                Join Now
               </EnrollPlanLink>
             </Reveal>
           ))}

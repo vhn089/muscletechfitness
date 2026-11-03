@@ -213,7 +213,7 @@ export function EnrollForm() {
                 type="submit"
                 className="mt-2 inline-flex h-14 items-center justify-center gap-2 rounded-md bg-primary text-base font-bold uppercase tracking-wide text-primary-foreground transition-transform hover:-translate-y-0.5"
               >
-                Enroll Now
+                Join Now
                 <Send className="size-4" aria-hidden="true" />
               </button>
               <p className="text-center text-sm text-muted-foreground">
